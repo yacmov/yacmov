@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cedric Ko</h1>
 <h3 align="center">A passionate junior developer.</h3>
 
-- 🔭 I’m currently working on [TAFE_ICTPRG440_CS_Assessment02](https://github.com/yacmov/TAFE_ICTPRG440_CS_Assessment02)
+- 👨‍💻 All of my projects are available at [https://github.com/yacmov?tab=repositories](https://github.com/yacmov?tab=repositories)
 
-- 🌱 I’m currently learning **C#, Python**
+- 🔭 I’m currently working on [TAFE_ICTPRG440_CS_Assessment02](https://github.com/yacmov/TAFE_ICTPRG440_CS_Assessment02)
 
 - 🔭 I’m currently working on [TAFE_ICT40120_Assessment03](https://github.com/yacmov/TAFE_ICT40120_Assessment03)
 
-- 👨‍💻 All of my projects are available at [https://github.com/yacmov?tab=repositories](https://github.com/yacmov?tab=repositories)
-
 - 💬 Ask me about **I want to be a special nerd.**
+
+- 🌱 I’m currently learning **C#, Python**
 
 - 📫 How to reach me **yacmov@gmail.com**
 
