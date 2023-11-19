@@ -1,7 +1,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/  -->
 
-<h1 align="center">Hi 👋, I'm Cedric Ko</h1>
-<h3 align="center">A passionate junior developer.</h3>
+<h1 align="left">Hi 👋, I'm Cedric Ko</h1>
+<h3 align="left">A passionate junior developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yacmov?tab=repositories](https://github.com/yacmov?tab=repositories)
 
