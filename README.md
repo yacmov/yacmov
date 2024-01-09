@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [TAFE_ICT40120_Assessment03](https://github.com/yacmov/TAFE_ICT40120_Assessment03)
 
-- 💬 Ask me about **I want to be a special nerd.**
+- 💬 **I want to be a special nerd.**
 
 - 🌱 I’m currently learning **C#, Python**
 
