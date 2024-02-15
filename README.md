@@ -5,11 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yacmov?tab=repositories](https://github.com/yacmov?tab=repositories)
 
-- 🔭 I’m currently working on [C4Prog-WT-23S2-Portfolio-SK](https://github.com/yacmov/C4Prog-WT-23S2-Portfolio-SK)
-
+- 🔭 I’m currently working on [civ-web-technologies-classes-SK](https://github.com/yacmov/civ-web-technologies-classes-SK)
+- 🔭 I’m currently working on [civ-web-technologies-portfolio-phases-SK](https://github.com/yacmov/civ-web-technologies-portfolio-phases-SK)
 <!--
-- 🔭 I’m currently working on [TAFE_ICT40120_Assessment03](https://github.com/yacmov/TAFE_ICT40120_Assessment03)
--->
+- 🔭 I’m currently working on [TAFE_ICT40120_Assessment03](https://github.com/yacmov/TAFE_ICT40120_Assessment03) -->
 
 - 💬 **I want to be a special nerd.**
 
