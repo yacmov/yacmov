@@ -6,6 +6,7 @@
 ### Plan
 ![alt text](assets/image.png)
 
+<br><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yacmov?tab=repositories](https://github.com/yacmov?tab=repositories)
 - 🔭 I’m currently working on [civ-web-technologies-classes-SK](https://github.com/yacmov/civ-web-technologies-classes-SK)
