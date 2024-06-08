@@ -4,13 +4,12 @@
 <h3 align="left">A passionate junior developer.</h3>
 
 ### Plan
-![alt text](assets/image.png)
+![alt text](assets/02-Exam.png)
 
 <br><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yacmov?tab=repositories](https://github.com/yacmov?tab=repositories)
-- 🔭 I’m currently working on [civ-web-technologies-classes-SK](https://github.com/yacmov/civ-web-technologies-classes-SK)
-- 🔭 I’m currently working on [civ-web-technologies-portfolio-phases-SK](https://github.com/yacmov/civ-web-technologies-portfolio-phases-SK)
+- 🔭 I’m currently working on [My own website](https://github.com/yacmov/yacmov.github.io)
 
 
 - 💬 **I want to be a DevOps Engineer**
@@ -38,8 +37,9 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacmov&show_icons=true&locale=en&layout=compact" alt="yacmov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacmov&show_icons=true&locale=en" alt="yacmov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yacmov&" alt="yacmov" /></p>
+<section><p><img align="left" with="800"  src="https://github-readme-stats.vercel.app/api/top-langs?username=yacmov&show_icons=true&locale=en&layout=compact" alt="yacmov" /></p></section>
+<section>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yacmov&show_icons=true&locale=en" alt="yacmov" /></p></section>
+<br>
+<section>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yacmov&" alt="yacmov" /></p></section>
