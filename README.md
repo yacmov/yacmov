@@ -5,6 +5,7 @@ I am a passionate junior developer. I'm currently learning full-stack web develo
 
 - 🌱 I’m currently learning on **React**, **Laravel**
 - 🔭 I’m currently working on [My portfolio Website](https://yacmov.github.io)
+- 🔭 And [Cloning Apple iPhone Website ](https://github.com/yacmov/apple_website)
 - 📫 How to reach me: **yacmov@gmail.com**
 
 ---
