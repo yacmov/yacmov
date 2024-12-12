@@ -10,6 +10,9 @@ I am a passionate junior developer. I'm currently learning full-stack web develo
   <br>[Cloning Apple iPhone Website ](https://github.com/yacmov/apple_website)
   <br>[Cloning React Native Crash Course ](https://github.com/yacmov/React-Native-Crash-Course)
 
+- 🔭 Projects I’m completed On
+  <br>[Cloning React Crash Course ](https://github.com/yacmov/JSMastery-ReactJS-MovieLands)
+
 ---
 
 ### Connect with me:
