@@ -10,10 +10,11 @@ I am a passionate junior developer. I'm currently learning full-stack web develo
   <br>[Cloning Apple iPhone Website ](https://github.com/yacmov/apple_website)
   <br>[Cloning React Native Crash Course ](https://github.com/yacmov/React-Native-Crash-Course)
   <br>[Cloning NextJS 15 Crash Course ](https://github.com/yacmov/JSMastery-NextJS-YCDirectory)
+  <br>[Cloning React Native - Trello ](https://github.com/yacmov/React-Native-Trello)
 
 - 🔭 Projects I’m completed On
-  <br>[Cloning React Native Crash Course ProfitFirst ](https://github.com/yacmov/React-Native-ProfitFirst)
-  <br>[Cloning React Crash Course ](https://github.com/yacmov/JSMastery-ReactJS-MovieLands)
+  <br>[Cloning React Native - ProfitFirst ](https://github.com/yacmov/React-Native-ProfitFirst)
+  <br>[Cloning React Native - MovieLands](https://github.com/yacmov/JSMastery-ReactJS-MovieLands)
 
 ---
 
