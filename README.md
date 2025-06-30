@@ -3,25 +3,32 @@
 
 <h2 align="center"> I am a passionate developer focused on delivering IT solutions. </h2>
 
-<div class="flex">
-  <img alt="GIF" width=200 height=200 src="./assets/img/monitors-typing.gif"/>
+<div style="  display: flex;
+  flex-direction: row;
+  align-self: center;">
+  <img style="margin-left: 4px;" alt="GIF" width=200 height=200 src="./assets/img/monitors-typing.gif"/>
   <div>
     <p>
     🌱 What I’m Currently Using: <br>
-    <div class="programming">
+    <div style="margin-left: 24px;">
       <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
       <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
     </div>
     </p>
-    <p class="project">
+    <p style="  display: flex;
+  justify-items: center;">
     🔭 Projects I’m 
     </p>
-    <div class="programming">
+    <div style="margin-left: 24px;">
     <img alt="working on" src="https://img.shields.io/badge/wokring_on-blue?style=flat-square&"/>
     </div>
     <br>
-    <div class="project-list">
+    <div style="  display: flex;
+  flex-direction: column;
+  margin-top: -20px;
+  margin-left: 24px;
+  font-size: small;">
       <div><a src="https://yacmov.github.io"><strong>My portfolio Website</strong></a></div>
       <div><a src="https://yacmov.github.io"><strong>Online Resume</strong></a></div>
     </div>
@@ -30,8 +37,8 @@
 <br>
 <p align="center">
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=yacmov&style=flat&color=blue"/>   •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yacmov?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/yacmov?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <img alt="GitHub Flowers" src="https://img.shields.io/github/followers/yacmov?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/yacmov?label=Stars" alt="Total Stars"/> •
   <a href="https://github.com/sponsors/yacmov"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
