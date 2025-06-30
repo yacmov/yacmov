@@ -1,0 +1,37 @@
+<svg width="480" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for lines -->
+    <linearGradient id="spaceGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="200" y2="0">
+      <stop offset="0%" stop-color="#00ffff" />
+      <stop offset="100%" stop-color="#ff00ff" />
+    </linearGradient>
+
+    <!-- Optional glow filter (not applied) -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Tech-style text using Share Tech Mono -->
+  <text x="50%" y="40%" text-anchor="middle" dominant-baseline="middle"
+        fill="white" font-size="36" font-family="'Share Tech Mono', monospace">
+    Hi 👋, I'm Cedric 😁
+  </text>
+
+  <!-- Sliding lines -->
+  <g>
+    <line x1="-200" y1="53" x2="0" y2="53" stroke="url(#spaceGradient)" stroke-width="2">
+      <animateTransform attributeName="transform" type="translate" from="0" to="1000" dur="5s" repeatCount="indefinite" />
+    </line>
+    <line x1="-200" y1="60" x2="0" y2="60" stroke="url(#spaceGradient)" stroke-width="2" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" from="0" to="1000" dur="6s" begin="1s" repeatCount="indefinite" />
+    </line>
+    <line x1="-200" y1="65" x2="0" y2="65" stroke="url(#spaceGradient)" stroke-width="2" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" from="0" to="1000" dur="4s" begin="2s" repeatCount="indefinite" />
+    </line>
+  </g>
+</svg>

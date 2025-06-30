@@ -1,125 +1,109 @@
-# Hi 👋, I'm Cedric Ko
+<link rel="stylesheet" href="./assets/css/profile.css">
+<img align="center" alt="GIF" src="./assets/img/universe.svg"/>
 
-#### A passionate junior developer
+<h2 align="center"> I am a passionate developer focused on delivering IT solutions. </h2>
 
-I am a passionate junior developer. I'm currently learning full-stack web developing with:
-
-- 🌱 What I’m Currently Learning: **React**, **GSAP**, **Laravel**
-- 🔭 Projects I’m Working On
-  <br>[My portfolio Website](https://yacmov.github.io)
-  <br>[Cloning Apple iPhone Website ](https://github.com/yacmov/apple_website)
-  <br>[Cloning React Native Crash Course ](https://github.com/yacmov/React-Native-Crash-Course)
-  <br>[Cloning NextJS 15 Crash Course ](https://github.com/yacmov/JSMastery-NextJS-YCDirectory)
-  <br>[Cloning React Native - Trello ](https://github.com/yacmov/React-Native-Trello)
-
-- 🔭 Projects I’m completed On
-  <br>[Cloning React Native - ProfitFirst ](https://github.com/yacmov/React-Native-ProfitFirst)
-  <br>[Cloning React Native - MovieLands](https://github.com/yacmov/JSMastery-ReactJS-MovieLands)
+<div class="flex">
+  <img alt="GIF" width=200 height=200 src="./assets/img/monitors-typing.gif"/>
+  <div>
+    <p>
+    🌱 What I’m Currently Using: <br>
+    <div class="programming">
+      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
+      <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+    </div>
+    </p>
+    <p class="project">
+    🔭 Projects I’m 
+    </p>
+    <div class="programming">
+    <img alt="working on" src="https://img.shields.io/badge/wokring_on-blue?style=flat-square&"/>
+    </div>
+    <br>
+    <div class="project-list">
+      <div><a src="https://yacmov.github.io"><strong>My portfolio Website</strong></a></div>
+      <div><a src="https://yacmov.github.io"><strong>Online Resume</strong></a></div>
+    </div>
+  </div>
+</div>
+<br>
+<p align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=yacmov&style=flat&color=blue"/>   •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yacmov?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/yacmov?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/yacmov"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
 ---
 
-### Connect with me:
+### 🔗 Connect with me:
 
 <p class="ml-2">
-          <a href="https://www.linkedin.com"><img style="margin-left:16px"
-              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-              alt="https://www.linkedin.com/in/cedric-ko/" height="40" width="30" /></a>
-              &nbsp;&nbsp;&nbsp;
-<a href="mailto:yamcov@gmail.com"><img style="margin-left:16px"
-              src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png"
-              alt="https://www.linkedin.com/in/cedric-ko/" height="40" width="40" /> </a>
+  <a href="https://www.linkedin.com/in/cedric-ko/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:yamcov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### **Languages and Tools:**
+### 💻 Languages and Tools
 
-<img style="margin-left: 16px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="38" height="38" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-    width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"   alt="dotnet" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    alt="csharp" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-
-#### Database & Clouds:
-
-<img style="margin-left: 16px"
-    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-    alt="aws" width="40" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
-    height="40" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin-left: 16px"
-    src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"
-    alt="azure" width="40" height="40" />
-&nbsp;&nbsp;
-
-#### **Other tools:**
-
-<img style="margin-left: 16px" 
-    src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"
-    alt="cisco" width="40" height="40" />
-&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" width="40" height="40" />
-&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-&nbsp;&nbsp;
-<img style="margin-left: 16px" 
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-&nbsp;&nbsp;
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/CShop-239120?style=flat-square&logo=C#&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+</p>
 
 ---
 
-### **My GitHub History!**
+### ☁️ Databases & Cloud Platforms
 
-<section class="mr-2">
-          <p><img width="570" src="https://github-readme-stats.vercel.app/api?username=yacmov&show_icons=true&locale=en"
-              alt="yacmov" />
-          </p>
-        </section>
-        <section>
-          <p><img width="570"
-              src="https://github-readme-stats.vercel.app/api/top-langs?username=yacmov&show_icons=true&locale=en&layout=compact"
-              alt="yacmov" /></p>
-        </section>
+<p>
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+### 🛠 Other Tools & Certifications
+
+<p>
+  <img alt="Cyber Essentials" src="https://img.shields.io/badge/Cyber_Essentials-0072C6?style=flat-square&logo=microsoft&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
+---
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>My GitHub History</strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yacmov&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacmov&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
