@@ -3,7 +3,7 @@
   <h1 align="center">
     <img alt="GIF" src="./assets/img/ready.svg"/>
     <br>
-    <span style="font-size:1.5rem">⏳ The Future Awaits. Innovate, Starting Now! 🚀✨</span>
+    <span style="font-size:1.5rem">The Future Awaits. Innovate, Starting Now! </span>
   </h1>
   <br>
   <img alt="GIF" src="./assets/img/universe.svg"/>
