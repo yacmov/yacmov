@@ -16,8 +16,8 @@
   <table class="borderless-table">
     <tbody>
       <tr>
-        <td style="width: 200px">
-          <img style="margin-left: 4px;" alt="GIF" width=200 height=200 src="./assets/img/monitors-typing.gif"/>
+        <td style="width: 00px">
+          <img style="margin-left: 4px;" alt="GIF" width=100 height=100 src="./assets/img/monitors-typing.gif"/>
         </td>
         <td style="width: auto;">
           <div>
@@ -30,12 +30,12 @@
               </div>
             </div>
               <div>
+              <br>
               🔭 Projects I’m 
               </div>
               <div style="margin-left: 24px;">
                 <img alt="working on" src="https://img.shields.io/badge/wokring_on-blue?style=flat-square&"/>
               </div>
-              <br>
             <div style="
               margin-top: -20px;
               margin-left: 24px;
@@ -121,24 +121,12 @@
 ---
 
 <!-- My GitHub History Section -->
-<section align="center">
+<!-- <section align="center">
   <details open="">
     <summary>
       <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
       <h3><strong>My GitHub History</strong></h3>
     </summary>
-    <br/>
-    <table align="center" class="borderless-table">
-      <tbody>
-        <tr>
-          <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=yacmov&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-          </td>
-          <td>
-            <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacmov&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-          </td>
-        </tr> 
-      </tbody>
-    </table>
+      <img width="300" align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacmov&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </details>
-</section>
+</section> -->

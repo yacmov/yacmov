@@ -10,15 +10,16 @@
       <stop offset="0%" stop-color="#00ffff" />
       <stop offset="100%" stop-color="#ff00ff" />
     </linearGradient>
+
   </defs>
 
   <!-- Tech-style text using Share Tech Mono -->
   <text x="50%" y="40%" text-anchor="middle" dominant-baseline="middle"
-        fill="white" font-size="36" font-family="'Share Tech Mono', monospace">
+        fill="gray" font-size="36" font-family="'Share Tech Mono', monospace">
     Hi 👋, I'm CEDRIC 😁
   </text>
   <text x="50%" y="80%" text-anchor="middle" dominant-baseline="middle"
-        fill="white" font-size="17" font-family="'Share Tech Mono', monospace">
+        fill="gray" font-size="17" font-family="'Share Tech Mono', monospace">
     Building the Digital Frontier. 💻✨
   </text>
 

@@ -3,37 +3,52 @@
 <!-- Developer: Cedric -->
 <!-- Website: yacmov.github.io   -->
 
-<svg width="480" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="readyGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
-      <stop offset="0%" stop-color="#FFD700" />
-      <stop offset="100%" stop-color="#FFA500" />
-    </linearGradient>
-  </defs>
+<svg width="480" height="100" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="none" />
 
   <!-- Text -->
-  <text x="45%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        fill="white" font-size="80" font-family="Share Tech Mono, monospace">
+  <!-- <text x="45%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-size="80" font-family="Share Tech Mono, monospace">
     Ready
-  </text>
+  </text> -->
+  <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .small {
+      font: bold italic 23px Share Tech Mono;
+      fill: gray;
+    }
+    .heavy {
+      font: bold 30px Share Tech Mono;
+      fill: gray;
+    }
 
-  <!-- Animated -->
-  <text x="80%" y="55%" text-anchor="middle" dominant-baseline="middle"
-        fill="white" font-size="60" font-family="Share Tech Mono, monospace">
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr {
+      font: italic bold 40px Share Tech Mono;
+      fill: red;
+    }
+  </style>
+
+  <text x="25" y="45" class="small">Are</text>
+  <text x="60" y="35" class="heavy">You</text>
+  <text x="75" y="55" class="Rrrrr">Ready</text>
+</svg>
+
+
+  <text x="350" y="55%" text-anchor="middle" dominant-baseline="middle"
+        font-size="60" font-family="Share Tech Mono, monospace">
     ⁉️
-    <animate
-      attributeName="font-size"
-      values="1; 60; 65; 70; 999"  keyTimes="0; 0.1; 0.6; 0.95; 1" dur="3s"
-      repeatCount="indefinite"
-      id="growAnimation"
-    />
-
-    <animateTransform
-      attributeName="transform"
-      attributeType="XML"
-      type="translate"
-      values="0 0; 1 0; 0 0; -1 0; 0 0" keyTimes="0;0.25;0.5;0.75;1"
-      dur="0.8s" repeatCount="indefinite"
-    />
+    <animate attributeName="font-size"
+             values="1; 60; 65; 70; 999" keyTimes="0; 0.1; 0.6; 0.95; 1"
+             dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      values="0 0; 1 0; 0 0; -1 0; 0 0"
+                      keyTimes="0;0.25;0.5;0.75;1"
+                      dur="0.8s" repeatCount="indefinite"/>
   </text>
 </svg>
