@@ -34,6 +34,8 @@
 
   - 🔭 Projects I’m working on
   <div style="margin-top: -10px; margin-left: 24px; font-size: small;">
+      <a href="https://github.com/yacmov/my-first-react-app"><strong>🔗 My First React App - JSMastery 🌐</strong></a>
+      <br/>
       <a href="https://yacmov.github.io"><strong>🔗 My portfolio Website 🌐</strong></a>
       <br/>
       <a href="https://yacmov.github.io"><strong>🔗 Online Resume 📄</strong></a>
