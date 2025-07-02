@@ -9,72 +9,50 @@
   <img alt="GIF" src="./assets/img/universe.svg"/>
 </section>
 
----
 
-<!-- Hero section -->
 <div align="center">
-  <table class="borderless-table">
-    <tbody>
-      <tr>
-        <td style="width: 00px">
-          <img style="margin-left: 4px;" alt="GIF" width=100 height=100 src="./assets/img/monitors-typing.gif"/>
-        </td>
-        <td style="width: auto;">
-          <div>
-            <div>
-            🌱 What I’m Currently Using: <br>
-              <div style="margin-left: 24px;">
-                <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
-                <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-                <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-              </div>
-            </div>
-              <div>
-              <br>
-              🔭 Projects I’m 
-              </div>
-              <div style="margin-left: 24px;">
-                <img alt="working on" src="https://img.shields.io/badge/wokring_on-blue?style=flat-square&"/>
-              </div>
-            <div style="
-              margin-top: -20px;
-              margin-left: 24px;
-              font-size: small;">
-              <div>
-                <a href="https://yacmov.github.io"><strong>🔗 My portfolio Website 🌐</strong></a>
-              </div>
-              <div>
-                <a href="https://yacmov.github.io"><strong>🔗 Online Resume 📄</strong></a></div>
-              </div>
-            </div>
-          </div>
-        </td>
-      </tr> 
-    </tbody>
-  </table>
-
   <!-- Profile Follower and start Sponsorship -->
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=yacmov&style=flat&color=blue"/>   •
   <img alt="GitHub Flowers" src="https://img.shields.io/github/followers/yacmov?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/yacmov?label=Stars" alt="Total Stars"/> •
   <a href="https://github.com/sponsors/yacmov"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-
 </div>
 
 ---
 
-<!-- Connection with me section -->
-<section align="center">
-  <h3>🔗 Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/cedric-ko/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yamcov@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</section>
+<!-- Hero section -->
+<div>
+  <img align="left" alt="GIF" width=300 height=300 src="./assets/img/monitors-typing.gif"/>
+  
+  - 🌱 What I’m Currently Using: <br>
+  <div style="margin-left: 24px;">
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  </div>
+  <br/>
 
----
+  - 🔭 Projects I’m working on
+  <div style="margin-top: -10px; margin-left: 24px; font-size: small;">
+      <a href="https://yacmov.github.io"><strong>🔗 My portfolio Website 🌐</strong></a>
+      <br/>
+      <a href="https://yacmov.github.io"><strong>🔗 Online Resume 📄</strong></a>
+  </div>
+  <br/>
+  
+  <!-- Connection with me section -->
+  - 🔗 Connect with me:
+  <div style="margin-left: 24px;">
+    <a href="https://www.linkedin.com/in/cedric-ko/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:yamcov@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </div>
+</div>
+<br/>
+<br/>
+
+
 
 <!-- Languages and tools section -->
 <section align="center">
